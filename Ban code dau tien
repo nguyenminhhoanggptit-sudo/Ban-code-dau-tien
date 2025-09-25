@@ -1,0 +1,8 @@
+print ('Họ')
+first_name = input()
+print('Tên')
+last_name = input()
+full_name = f'{first_name} {last_name}'
+print ('Độ tuổi')
+tuoi = input()
+print ('Xin chào các con vợ, Mình là',full_name,'bố mày năm nay',tuoi,'tuổi')
